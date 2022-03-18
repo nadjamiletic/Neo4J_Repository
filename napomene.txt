@@ -1,0 +1,6 @@
+Pre isprobavanja funkcionalnosti potrebno je dodati neke proizvode u skladiste
+Pri kupovini proizvoda smatra se da je kupac vec dodat u bazu i samo se kuca njegovo ime(moze se dodati preko forme dodaj kupca)
+Dodavanje u korpu je moguce ali samo za jedno skladiste jednovremeno sto je i ograniceno, 
+Ono sto nije ograniceno a treba znati jeste da ne mozete 2puta isti proizvod na racunu da imate,znaci ako kupite
+50 proizvoda nekog tipa to je to ,ne mozete dodati jos proizvoda istog tipa jer se koristi dictionary sa key value parom
+ime,kolicina i zbog toga nije moguce.. U tom slucaju na novom racunu bi se kucalo to
