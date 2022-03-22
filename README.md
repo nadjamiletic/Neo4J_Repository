@@ -1,1 +1,2 @@
-# Neo4J_Repository
+C# aplikacija koja simulira rad skladišta i poslovanje sa kupcima i dobavljačima. Dobavljač može dodati nov proizvod u skladište, a može i dopuniti neko skladište određenom količinom postojećih proizvoda. 
+Sa druge strane, kupac unosi svoje podatke, a potom odabirom nekog skladišta, proizvoda i unosom količine tog proizvoda kreira svoju korpu i na kraju zahteva izdavanje računa za sve proizvode koje je kupio. 
